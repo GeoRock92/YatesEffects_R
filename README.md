@@ -19,7 +19,7 @@ The following figure shows a Lenth plot for the original experiment of Box et al
 
 The resulting plot shows the absolute effects for each input factor and their factor combinations and concludes that the variable catalyst is the only active effect having a large influence on the output, yield. Although the use of SME and ME defines a quantitative boundary beyond which effects are not statistically significant, other effects can still be influential depending on the output variable and the interpreter criteria: for example, concentration has an effect of 5 units on the output yield which might be of practical importance. Hence, although SME and ME provide the analysis with a discrete limit, it is important to remember that they are not the absolute truth, but are a statistical tool to lead the analysis to where some degree of qualitative interpretation is allowed.
 
-![Box_experiment](https://user-images.githubusercontent.com/17766787/121894111-a66bf680-cd16-11eb-81b1-349f82e37890.png)
+![Rplot](https://user-images.githubusercontent.com/17766787/121900723-a28fa280-cd1d-11eb-938f-7dffed6717ab.png)
 
 ***References***
 
