@@ -1,7 +1,7 @@
 # YatesEffects_R
 A small script in R to calculate Yates effects using pre-existing packages
 
-The code in this repository was used during my PhD to systematically analyse Yates effects in large 2^n factorial experiments of geological nature. The code is written in R and it represents a fast way to identify influencing factors and combination of factors in data. 
+The code in this repository was used during my PhD to systematically analyse Yates effects in large 2^n unreplicated factorial experiments of geological nature. The code is written in R and it represents a fast way to identify influencing factors and combination of factors in data. 
 
 The script merely takes exsisting packages (reardr, dae and BsMD; Brien, 2020; Barrios and Meyer, 2020) and uses their functions to quickly analyse Yates effects in a graphical way. The script can be easily adapted to perform batch analyses. 
 
